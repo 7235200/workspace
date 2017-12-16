@@ -1,0 +1,13 @@
+{
+    "window.zoomLevel": 1,
+    "files.autoSave": "onFocusChange",
+    "workbench.colorTheme": "Base16 Ocean Dark",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontSize": 11,
+    "terminal.integrated.fontSize": 10,
+    "terminal.integrated.enableBold": false,
+    "terminal.integrated.cursorStyle": "underline",
+    "editor.renderIndentGuides": false,
+    "prettier.singleQuote": true,
+    "html.format.wrapAttributes": "force-aligned"
+}
